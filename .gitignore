@@ -5,7 +5,7 @@ bootstrap-responsive.css
 Gemfile.lock
 .rvmrc
 .rbenv-version
-
+.idea
 # Ignore bundler config
 /.bundle
 /vendor/cache
