@@ -567,7 +567,7 @@
 // [converter] $parent hack
 @mixin responsive-invisibility($parent) {
   #{$parent} {  }
-  &,
+  //&,
   tr#{$parent},
   th#{$parent},
   td#{$parent} { display: none !important; }
